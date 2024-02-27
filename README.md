@@ -8,7 +8,6 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <!--
@@ -18,10 +17,6 @@
 -->
 
 <br>
-
-<p align="center">
-  <img alt="projeto Dev links" src=".github/assets/cover.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
